@@ -1,8 +1,8 @@
 # Bastien–Khormali Conjecture
 
-Lean 4 formalization proving the existence of a link-irregular tournament on `n`
-vertices when `n ≥ 9`, and that a uniformly random tournament is
-asymptotically almost surely link-irregular.
+The Bastien-Khormali Conjecture asserts that nontrivial link-irregular tournaments with `n` vertices exist if and only if `n ≥ 6`. Bastien and Khormali themselves established the conjecture true up to `n = 100`.
+
+This program serves as Lean 4 formalization for proving the existence of a link-irregular tournament with `n` vertices when `n ≥ 9`, and that a uniformly random tournament is asymptotically almost surely link-irregular. The former existence statement resolves the Bastien-Khormali Conjecture in the affirmative.
 
 Build with
 
