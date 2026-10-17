@@ -14,7 +14,7 @@ lake build
 
 The build completed successfully under Lean 4.27.0 in our session. There are no `sorry`, `admit`, nor `native_decide`.
 
-However, the formalization uses two stated external results as Lean 4 axioms: the values from OEIS A000088 and Corollary 2 of Buhrman–Li–Tromp–Vitányi.
+However, the formalization uses two stated external results as Lean 4 axioms: the values from OEIS A000088 and Corollary 2 of Buhrman–Li–Tromp–Vitányi. They can be found in `Proof/External/`.
 
 # Remark
 
