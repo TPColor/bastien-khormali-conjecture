@@ -4,6 +4,8 @@ Bastien and Khormali (2025) assert that nontrivial link-irregular tournaments wi
 
 This program serves as a Lean 4 formalization for proving the existence of a link-irregular tournament with `n` vertices when `n ≥ 9`, and that a uniformly random tournament is asymptotically almost surely link-irregular. The former existence statement resolves the Bastien–Khormali Conjecture in the affirmative.
 
+My arXiv paper presenting the arguments is as follows: [https://arxiv.org/abs/2610.24631](https://arxiv.org/abs/2610.24631).
+
 # Instructions
 
 Install Lean 4.27.0, and from your directory run in powershell:
